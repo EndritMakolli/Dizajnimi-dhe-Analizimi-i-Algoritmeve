@@ -1,0 +1,5 @@
+2025-04-10 08:00:01 INFO User login successful for user 'john.doe'
+2025-04-10 08:05:12 WARN Low disk space on drive 'C:'
+2025-04-10 08:10:23 ERROR Unable to connect to database 'db_sales'
+2025-04-10 08:15:45 INFO Scheduled backup completed successfully
+2025-04-10 08:20:09 INFO User logout successful for user 'john.doe'
